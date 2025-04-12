@@ -26,9 +26,6 @@ This project is a relational database system designed for managing a bookstore's
 
 ## 📐 ERD Diagram
 
-![ERD](./erd.drawio.png)
-
----
 
 ## 🧱 Database Schema Overview
 
