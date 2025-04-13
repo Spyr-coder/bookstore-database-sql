@@ -1,5 +1,5 @@
 -- books.sql: Creates the "books" table with appropriate fields and constraints.
-CREATE TABLE books (
+CREATE TABLE book (
     book_id INT AUTO_INCREMENT PRIMARY KEY,  -- Unique identifier for each book; auto-increments automatically.
     title VARCHAR(255) NOT NULL,               -- The title of the book; cannot be null.
     price DECIMAL(10,2) NOT NULL,              -- Price of the book; 10 digits total, 2 after the decimal.
