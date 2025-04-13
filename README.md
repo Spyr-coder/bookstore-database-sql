@@ -43,5 +43,8 @@ This project is a relational database system designed for managing a bookstore's
 
 1. **Clone or Download the Project**
    ```bash
-   git clone https://github.com/your-username/bookstore-db.git
+   git clone https://github.com/Spyr-coder/bookstore-database.git
    cd bookstore-db
+## Collaborators
+Ivette Imbuye
+Fransisca Obiero
