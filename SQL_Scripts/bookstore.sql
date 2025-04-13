@@ -10,7 +10,7 @@ CREATE TABLE books (
 -- ALTER TABLE books ADD CONSTRAINT fk_publisher
 -- FOREIGN KEY (publisher_id) REFERENCES publishers(publisher_id);
 -- customers.sql: Creates the "customers" table with core customer information.
-CREATE TABLE customers (
+CREATE TABLE customer (
     customer_id INT AUTO_INCREMENT PRIMARY KEY,  -- Unique customer identifier.
     name VARCHAR(255) NOT NULL,                   -- Customer’s full name.
     email VARCHAR(255) UNIQUE NOT NULL,           -- Email address, must be unique.
